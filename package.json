@@ -1,0 +1,9 @@
+{
+  "name": "3d-shooter-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
